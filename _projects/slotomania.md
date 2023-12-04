@@ -15,7 +15,7 @@ category: work
     </div>
 </div>
 ### Overview
-Slotomania is a popular F2P social casino app and website where you can play a wide variety of slot machine games. It offers a range of themed slot games with different graphics, sounds, and bonus features. Players can spin the virtual slot machines, earn virtual currency, and progress through various levels and challenges. Slotomania is known for its social elements, allowing players to interact with friends and send each other gifts or compete on leaderboards.
+Slotomania is a popular free-to-play social casino app and website where users can enjoy a diverse selection of slot machine games. The platform offers themed slot games with unique graphics, sounds, and bonus features. Players can spin virtual slot machines, earn virtual currency, and progress through various levels and challenges. Notably, Slotomania is recognized for its social elements, offering a rich variety of player interaction mechanics like clans, leaderboards, closed-access clubs, and many more.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,7 +35,7 @@ Slotomania is a popular F2P social casino app and website where you can play a w
 </div>
 
 ### Role
-As a **Technical Lead** in **Playtika** I led client development of 2 teams and made lots of contributions to the features and infrastructure of the project and resolved tens of conplicated production issues, but my pramary focus was realted to collectibles part of the game, which consisted from tens features modules and services, that were part of continious development, seasonal releases that holded uniquie features while previous releases should be kept at the it's release date state.
+As a **Technical Lead** at **Playtika**, I led the client development of two teams and made significant contributions to both project features and infrastructure. I played a pivotal role in resolving numerous complex production issues. My primary focus was on the collectibles aspect of the game, comprising tens of feature modules and services. These components were part of continuous development, with seasonal releases introducing unique features while preserving the state of previous releases.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -54,9 +54,8 @@ As a **Technical Lead** in **Playtika** I led client development of 2 teams and 
 
 
 ### Challenges
-* Extremely high quality bar - when project have millions daily users, even very improbable corner cases bubble up quite fast.
-* 'Must release until date' requirements of the seasonal feature.
-* Large legacy codbase that couldn't be rebuilt and must stay in the project - sets of legacy unique content and features that players collected and must be held in the project, with continious development of related functionality.
-* Releases support on over distribution 9 platforms.
-* Enormous size of the codebase.
-* Deeply multithreaded environment.
+* Maintaining an extremely high quality bar, crucial for a project with millions of daily users where even improbable corner cases surface rapidly.
+* Meeting 'must release until date' requirements for seasonal features.
+* Managing enormous size of the codebase, necessitating continuous development of related functionality.
+* Supporting releases on over 9 distribution platforms.
+* Operating in a complex distributed and multithreaded development environment.

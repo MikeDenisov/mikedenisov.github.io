@@ -23,7 +23,7 @@ category: work
     </div>
 </div>
 ### Overview
-Hemp Inc‘s gameplay is based around starting your very own marijuana grow / dispensary business. You begin in a garage grow space and apartment dispensary, and can earn money for upgrades by selling grown marijuana in your dispensary. Lots of extras like boost items, additional staff members, character customizations, locations, and sorts of cannabis seeds.
+Hemp Inc‘s gameplay revolves around starting your very own marijuana grow/dispensary business. You begin in a garage grow space and an apartment dispensary, earning money for upgrades by selling grown marijuana in your dispensary. The game offers various extras like boost items, additional staff members, character customizations, locations, and types of cannabis seeds.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -39,9 +39,7 @@ Hemp Inc‘s gameplay is based around starting your very own marijuana grow / di
 
 
 ### Role
-I had a role of **Senior Unity Developer** in Game Development Devision of **Room 8 Studio** and I've put my hands on a various game mechanics, UI and infrastructure modules. 
-
-But my primary contribution in this game was AI - I've developer a behaviour-tree based AI framework, along with lots of character behaviours and a custom pathfinding system, that enabled motion planning with collision avoidance between characters without involvement of physics engine.
+In my role as a **Senior Unity Developer** in the Game Development Division of **Room 8 Studio**, I was involved in various game mechanics, UI, and infrastructure modules. My primary contribution to this game was in AI development. I created a behavior-tree based AI framework, implemented numerous character behaviors, and designed a custom pathfinding system. This system enabled motion planning with collision avoidance between characters without the involvement of a physics engine.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -58,13 +56,12 @@ But my primary contribution in this game was AI - I've developer a behaviour-tre
 </div>
 
 ### Challenges
-* Advanced animations system with lots of customizations, attachements, etc.
-* High requirements for optimization due to packed with features functionality and low-end target mobile devices.
-* Required number of custom advanced editors for AI behaviours customization and navigation markup.
-* Multiple complex AI behaviours like staying in queues, dragging items, etc.
-* Custom mobile platforms plugins to implement in-game live streaming radio.
-* Custom pathfinding solution (Hierarchical) to allow spreaded pathing and optimized collision avoiding.
-* Quite complicated UI decisions.
+* Advanced animations system with numerous customizations and attachments.
+* High optimization requirements due to the feature-packed functionality and targeting low-end mobile devices.
+* Implemented a number of advanced custom editors for AI behaviors customization and navigation markup.
+* Created multiple complex AI behaviors for agents such as staying in queues, carrying items, conversations, etc.
+* Devised a custom pathfinding solution to allow spreaded pathing and optimized collision avoidance.
+* Addressed quite complicated UI decisions.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

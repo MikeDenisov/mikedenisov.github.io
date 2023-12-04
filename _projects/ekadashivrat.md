@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ekadashi Vrat Reminder
-description: Mobile app
+description: Crossplatform mobile app
 img: assets/projects/ekadashi/img/icon_new_3.svg
 importance: 1
 category: fun
@@ -22,11 +22,11 @@ category: fun
 </div>
 
 ### Overview
-Ekadashi Vrat Reminder is your go-to app for staying on track with Ekadashi fasting routine. Get notified about upcoming Ekadashi days, and receive precise timings for starting and ending your fast based on celestial data. With a user-friendly interface and easy navigation, this app makes it effortless to maintain your fasting schedule.
+**Ekadashi Vrat Reminder** stands as the quintessential mobile application designed to assist individuals in adhering to their Ekadashi fasting routine. The app provides timely notifications for upcoming Ekadashi days and offers precise timings derived from celestial data to commence and conclude the fast. With its user-friendly interface and intuitive navigation, this application simplifies the task of adhering to a fasting schedule.
 ![Reviews](/assets/projects/ekadashi/img/reviews.png)
 
 ### Challenges
-* User location based celestial data calculation
-* Complicated research for proper Ekadashi days finding rules and naming.  
-* Incorporation of quite new .NET MAUI framework, still unresolved issues that required searching for workarounds
-* Platform specific pecularities of payment and notification systems.
+* Implementation of user location-based celestial data calculation.
+* In-depth research on Ekadashi fasting rules and nomenclature.
+* Adoption of the .NET MAUI framework, overcoming unresolved issues through meticulous workarounds.
+* Addressing platform-specific intricacies related to payment and notification systems.

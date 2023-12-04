@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Manage the Stars: Sports Agent"
+title: "Sports Agent"
 description: American Football Tycoon
-img: assets/projects/ms/img/ms3.jpg
+img: assets/projects/ms/img/ms_logo.jpg
 importance: 3
 category: work
 ---
@@ -24,7 +24,7 @@ category: work
 </div>
 
 ### Overview
-"Manage the Stars: Sports Agent" is a dynamic mobile game that puts players in the role of a sports agent. As the mastermind behind the careers of virtual athletes, players navigate the competitive world of professional sports. From negotiating contracts and endorsements to making crucial career decisions, the game offers a comprehensive experience of what it takes to manage and guide sports stars to success.
+**Manage the Stars: Sports Agent** is a dynamic mobile game that immerses players in the role of a sports agent. As the architect of virtual athletes' careers, players navigate the competitive world of professional sports. They negotiate contracts, manage endorsements, and make crucial career decisions, providing a comprehensive experience of guiding sports stars to success.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -48,7 +48,7 @@ category: work
 </div>
 
 ### Role
-In a role of **Senior Unity Developer** of Game Development Devision in **Room 8 Studio** and I've put my hands on a various game mechanics, UI and infrastructure modules. 
+In the position of **Senior Unity Developer** at Room 8 Studio's Game Development Division, I contributed to various game mechanics, UI, and infrastructure modules.
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
@@ -57,9 +57,9 @@ In a role of **Senior Unity Developer** of Game Development Devision in **Room 8
 </div>
 
 ### Challenges
-* Complex AI Behaviurs and interactions
-* Out of game player progression
-* Complex UI systems
+* Tackling complex AI Behaviors and interactions.
+* Developing strategies for out-of-game player progression.
+* Addressing the intricacies of complex UI systems.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: L.A.P.C.A.
-description: Robotic hand
+description: Mechanical Unfoldable Robotic Hand
 img: assets/projects/lapca/img/lapca2.png
 importance: 2
 category: fun
@@ -12,8 +12,10 @@ category: fun
   </div>
 </div>
 
+### Impact detection
+![Impact Detection](/assets/projects/lapca/img/impact_detection.png)
+
 ### Overview
-Developed in a team of friends - L.A.P.C.A. is a mechanical unfoldable robot-hand prototype with a front-end camera made for the [NASA Space App Challenge](https://www.spaceappschallenge.org) hackathon. 
-The robot periodically takes photos of the same areas to detect visual changes and indentify potential damages of the spacecraft skin.
+L.A.P.C.A. (Mechanical Unfoldable Robotic Hand) represents a collaborative effort within a team of friends. This prototype, designed for the [NASA Space App Challenge](https://www.spaceappschallenge.org) hackathon, features a front-end camera and serves a crucial role in periodically capturing images of designated areas. The primary objective is to detect visual changes and identify potential damages to the spacecraft skin.
 
 `Python | C | Arduino | OpenCV`
